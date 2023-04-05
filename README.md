@@ -1,4 +1,4 @@
-# Transkribus
+# Russian-print-XVIII-cent
 
 Учебный проект студентов магистратуры.
 
