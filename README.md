@@ -1,4 +1,4 @@
-# Russian-print-XVIII-cent
+# Russian print XVIII cent.
 
 Учебный проект студентов магистратуры.
 
